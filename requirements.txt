@@ -1,0 +1,11 @@
+MyApp
+Node==0.9.23
+#mongod==0.0.3
+express==1.0
+npm==0.1.1
+
+#you also need to install these external libraries
+#npm install react react-dom
+#npm install body-parser
+#npm install mongoose
+
